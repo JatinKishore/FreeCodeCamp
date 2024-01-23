@@ -1,1 +1,1 @@
-In this I have added all the course and the coding part I worked via FreeCodeCamp
+In this I have added all the courses and the coding part I worked via FreeCodeCamp
